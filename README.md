@@ -96,10 +96,6 @@ $ evansevans -p 50051 -r
 
  more expressive universal gRPC client
 
-
-default@127.0.0.1:50051> show pa
-pa: unknown target
-
 default@127.0.0.1:50051> show package
 +---------+
 | PACKAGE |
